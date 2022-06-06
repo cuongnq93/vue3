@@ -1,0 +1,24 @@
+{
+  "app": {
+    "title": "VOC MANAGEMENT SYSTEM",
+    "home": "Trang chủ",
+    "footer": "Copyright © 2022 by OTOFUN",
+    "login_title": "Đăng nhập",
+    "notification": "Thông báo"
+  },
+  "field": {
+    "email": "Email",
+    "username": "Tên đăng nhập",
+    "password": "Mật khẩu"
+  },
+  "button": {
+    "login": "Đăng nhập",
+    "cancel": "Hủy bỏ"
+  },
+  "message": {
+    "required": "Vui lòng nhập {field}"
+  },
+  "notification": {
+    "updata_success": "Cập nhật thành công"
+  }
+}

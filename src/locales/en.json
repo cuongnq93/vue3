@@ -1,0 +1,28 @@
+{
+  "login": {
+    "title": "Login",
+    "username": "Username",
+    "username_placeholder": "Please enter your email address",
+    "password": "Password",
+    "password_placeholder": "Please enter your password",
+    "button_submit": "Login",
+    "employee_isi": "Click here for ISI Employee",
+    "reset_password": "If you forgot your password, click here"
+  },
+  "reset_password": {
+    "title": "Reset password",
+    "notice": "A password reset link will be sent to your registered email address.",
+    "email_placeholder": "Please enter your email address",
+    "button_login": "Back To Login",
+    "button_submit": "Send E-Mail",
+    "button_resend": "Resend E-Mail",
+    "confirm_message": "We have sent a password reset link to the email address you entered. <br/>Please reset your password as instructed.",
+    "set_new_password": "Please set a new password. <br/>The old password cannot be used for the new password.",
+    "new_password": "New Password",
+    "new_password_placeholder": "Please enter your new password",
+    "confirm_password": "New Password ( Confirmation )",
+    "confirm_password_placeholder": "Please enter a new password ( Confirmation )",
+    "button_reset_password": "Reset Password",
+    "helper_text_password": "* Password and Confirm Password must be the same"
+  }
+}
